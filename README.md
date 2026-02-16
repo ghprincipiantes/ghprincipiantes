@@ -47,7 +47,7 @@ Crecer ayudando.
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghprincipiantes&show_icons=true&theme=tokyonight)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=ghprincipiantes&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs))
 
 ---
 
